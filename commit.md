@@ -1,1 +1,1 @@
-fix typos and incorrect example on 2/1/2019
+clarify example description on 2/8/2019
